@@ -1,11 +1,9 @@
  ## Hi there I am Elham 👋
-💻 I'm a Marketing Specialist, and Front-End developer
+💻 I'm a front-end developer and marketing specialist
 
-- 🔭 I’m currently working on mastering JavaScript, HTML, CSS, Bootstrap,...
+- 🔭 I’m currently working on mastering Typescript and Testing materials
 
-- 🌱 I’m currently learning React
-- 🙃I am passionate to learn SQL
-- 👯 I’m looking to collaborate on Front-End 
+- 🌱 I use React.js, Jest, React Testing Library
 
 
 ## Contact
